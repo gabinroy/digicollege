@@ -80,5 +80,5 @@ Use the following credentials to explore the app:
 
 ## 📹 Demo Video
 
-[![Watch the Temperature Demo Video](https://gabinroy.github.io/Temp-c/assets/Screenshot%202025-08-16%20205759.png)](https://drive.google.com/file/d/15xcaR-7a0LWdYNgKG0AaQm8yrbN_0ebP/view?usp=sharing)
+[![Watch the Temperature Demo Video](https://gabinroy.github.io/Temp-c/assets/Screenshot%202025-08-16%20205759.png)](https://youtu.be/OLDaXuJVZGg)
 
